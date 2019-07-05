@@ -1,4 +1,4 @@
-# CarND Object Detection Lab
+# Object Detection - SSD-MobileNet
 
 ![](assets/clip.gif)
 
@@ -43,3 +43,6 @@ https://conda.io/docs/using/envs.html#remove-an-environment
 * [Driving video](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/advanced_deep_learning/driving.mp4)
 
 
+### Future Work
+
+* Experiment with Fast-R-CNN / Faster-R-CNN and compare its performance with SSD on the same * [Driving video](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/advanced_deep_learning/driving.mp4)
